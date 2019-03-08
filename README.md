@@ -2,7 +2,8 @@
 ~~~
 #Python #TensorFlow #DeepLearning #UnsupervisedLearning #Tesseract #OpenCV
 ~~~
-Project Paper - https://www.dropbox.com/home/Unicreate/MWDSI?preview=Semantic+Structure+Identification+using+Image+Detection+Algorithms.docx
+Project Paper - https://www.dropbox.com/s/q4ssacdievrmu52/Semantic%20Structure%20Identification%20using%20Image%20Detection%20Algorithms.docx?dl=0
+
 Project Poster - https://www.dropbox.com/s/az6d160ao9zcv09/Informs%20BA%20Table%20Cell%20Detection%20Poster.pptx?dl=0
 
 ### Abstract
